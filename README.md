@@ -4,7 +4,10 @@ The goal is to design and create the structure of a ReportCard Java Class which 
 
 This project is about combining various ideas and skills we’ve been practicing throughout the course. They include:
 
-Designing a custom class
-Creating that class in Java code.
-Storing information in an array
-Looping through an array
+1)Designing a custom class
+
+2)Creating that class in Java code.
+
+3)Storing information in an array
+
+4)Looping through an array
